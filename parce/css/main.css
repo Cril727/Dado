@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);                                                                         
+}
+
+#P1{
+    background-color: blue;
+    color: white;
+    margin-right: 60px;
+    margin-left: 33px;
+
+}
+
+#P2{
+    background-color: rgb(209, 32, 32);
+    color: white;
+}
+
+#Dado{
+    background: #338d61;
+    height: 150px;
+    width: 150px;
+    margin-left: 122px;
+    margin-top: 40px;
+}
+
+
+#tabla{
+    margin-left: 385;
+}
+
+#rD{
+    align-items: center;
+}
